@@ -1,4 +1,4 @@
 
-Project1.exe
-GradeBook.o
+*.exe
+*.o
 Makefile.win
